@@ -1,0 +1,28 @@
+#window{
+	width: 85%;
+	border: 1px solid black;
+	margin: 10 auto;
+	padding:10px;
+}
+#active{
+	float:right;
+}
+#txtName{
+	margin-left: 23px;
+	width: 180px;
+}
+#txtPass{
+	width: 180px;
+}
+#win2{
+	display: none;
+}
+#txtMessage{
+	width: 500px;
+	height: 150px;
+}
+#message{
+	padding: 10px 10px 10px 10px;
+	margin-top: 10px;
+	box-shadow: 0px 2px 3px black;
+}
